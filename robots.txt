@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xohphahfem.syncleus.com/sitemap.xml
